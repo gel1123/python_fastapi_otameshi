@@ -1,0 +1,8 @@
+{
+  "name": "python-fastapi-otameshi-dockerfile",
+  "context": "..",
+  "dockerFile": "../Dockerfile",
+  "extensions": [
+    "ms-python.python"
+  ]
+}
